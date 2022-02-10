@@ -20,3 +20,6 @@ requests-oauthlib
 sqlparse
 stripe
 urllib3
+pytest
+pluggy
+python
