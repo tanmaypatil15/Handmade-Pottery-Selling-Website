@@ -22,4 +22,3 @@ stripe
 urllib3
 pytest
 pluggy
-python
