@@ -17,5 +17,6 @@ six==1.16.0
 sqlparse==0.4.2
 toml==0.10.2
 tzdata==2021.5
+waitress==2.0.0
 whitenoise==6.0.0
 wrapt==1.13.3

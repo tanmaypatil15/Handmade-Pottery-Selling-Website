@@ -1,1 +1,1 @@
-web: gunicorn Handmade.wsgi
+web: waitress-serve --port=$PORT Handmade.wsgi:application
