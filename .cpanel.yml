@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/risarzxv/repositories/Handmade-Pottery-Selling-Website/
+    - /bin/cp * $DEPLOYPATH
