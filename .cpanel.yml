@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/risarzxv/repositories/Handmade-Pottery-Selling-Website/
+    - export DEPLOYPATH=/home/risarzxv/tanmaypatil.in/
     - /bin/cp * $DEPLOYPATH
